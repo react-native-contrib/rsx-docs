@@ -11,4 +11,7 @@ before_script:
 - npm install -g bower
 - grunt gh-pages-clean
 - bower update
+env:
+  global:
+  - DOCBASE_TOKEN="ODM5ZjE4ZmE0NzRmNzY5ZmE3MzIyMTQzM2Y0MWJkYmYyZTJkMjM4ZQ=="
 sudo: false
