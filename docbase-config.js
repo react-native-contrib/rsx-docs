@@ -59,7 +59,7 @@ var docbaseConfig = {
       },
       {
         "name": "development",
-        "label": "development",
+        "label": "Development",
         "default": "custom-plugins",
         "files": [
           {
